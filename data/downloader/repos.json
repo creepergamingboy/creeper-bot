@@ -1,0 +1,70 @@
+{
+    "Dumb-Cogs" : {
+        "adventure" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\adventure\\adventure.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\adventure"
+        },
+        "alot" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\alot\\alot.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\alot"
+        },
+        "economytrickle" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\economytrickle\\economytrickle.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\economytrickle"
+        },
+        "engine" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\engine\\engine.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\engine"
+        },
+        "hal" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\hal\\hal.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\hal"
+        },
+        "ide" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\ide\\ide.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\ide"
+        },
+        "lolz" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\lolz\\lolz.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\lolz"
+        },
+        "noflippedtables" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\noflippedtables\\noflippedtables.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\noflippedtables"
+        },
+        "ping" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\ping\\ping.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\ping"
+        },
+        "repl" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\repl\\repl.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\repl"
+        },
+        "sadface" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\sadface\\sadface.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\sadface"
+        },
+        "snacktime" : {
+            "INSTALLED" : false,
+            "file" : "data\\downloader\\Dumb-Cogs\\snacktime\\snacktime.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\snacktime"
+        },
+        "url" : "https://github.com/irdumbs/Dumb-Cogs",
+        "welcome" : {
+            "INSTALLED" : true,
+            "file" : "data\\downloader\\Dumb-Cogs\\welcome\\welcome.py",
+            "folder" : "data\\downloader\\Dumb-Cogs\\welcome"
+        }
+    }
+}
